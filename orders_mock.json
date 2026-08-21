@@ -1,0 +1,6 @@
+[
+  { "order_id": "OD9001", "customer": "Anita Sharma", "status": "shipped", "items": ["Silk Saree"], "value_inr": 3499 },
+  { "order_id": "OD9002", "customer": "Ravi Kumar", "status": "delivered", "items": ["Bluetooth Earbuds"], "value_inr": 1299 },
+  { "order_id": "OD9003", "customer": "Meena Iyer", "status": "processing", "items": ["Cotton Kurta Set"], "value_inr": 1599 },
+  { "order_id": "OD9004", "customer": "Farhan Ali", "status": "delayed", "items": ["Smart Watch"], "value_inr": 2499 }
+]
